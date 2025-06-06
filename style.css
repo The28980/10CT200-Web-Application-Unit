@@ -7,12 +7,8 @@ body{
 }
 
 h1{
-    color:rgb(0,17,94);
+    color:rgb(94, 53, 0);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-nav{
-    background-color: bisque;
 }
 
 nav ul{
@@ -22,11 +18,14 @@ nav ul{
 }
 
 nav li{
-    margin-right: 20px;
+    background-color: saddlebrown;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    font-size: large;
 }
 
 nav a{
-    color: rgb(0,17,94);
+    color: rgb(255, 205, 140);
     text-decoration: none;
 }
 
